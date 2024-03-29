@@ -43,7 +43,7 @@ I-am-vishalmaurya@github
 </div>
 
 #
-
+<!--
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
@@ -62,7 +62,7 @@ I-am-vishalmaurya@github
 🎵 Love metal, lofi, jazz and soft music
 ```
 <hr>
-
+-->
 ## 📺 Latest Projects
 
 <table>
@@ -175,6 +175,7 @@ I-am-vishalmaurya@github
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=20232a&color=61dafb&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
 </div>
 
+<!--
 ---
 
 
@@ -182,7 +183,7 @@ I-am-vishalmaurya@github
 #
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) 
+ ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) 
 
  <h3>👨‍💻 Forrest's Coding Journey</h3>
    I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out.
