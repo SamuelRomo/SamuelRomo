@@ -1,4 +1,4 @@
-<img src="sources/wallpaper.jpg">
+<img src="sources/wallpaper2.jpg">
 
 # 🏄‍♂️ Samuel S. Romo
 
