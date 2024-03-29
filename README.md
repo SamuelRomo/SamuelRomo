@@ -17,7 +17,7 @@ I'm an indie full-stack developer and content creator building my version of the
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
----
+
 <h2 align="">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="">
@@ -25,7 +25,7 @@ I'm an indie full-stack developer and content creator building my version of the
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
-
+#
 
 ### 📺 Latest YouTube Videos
 
