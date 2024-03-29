@@ -65,7 +65,12 @@ I-am-vishalmaurya@github
 <tr>
    <td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ"><img width="140px" src="https://i.ytimg.com/vi/JdJ2VBbYYTQ/mqdefault.jpg"></a></td>
    <td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ">Getting the user's location with JavaScript (Geolocation API tutorial)</a><br/>Dec 22, 2020</td>
-   <td><a href="https://www.youtube.com/watch?v=JdJ2VBbYYTQ">Getting the user's location with JavaScript (Geolocation API tutorial)</a><br/>Dec 22, 2020</td>
+   <td>
+       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+       <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+   </td>
 </tr>
 <tr>
    <td><a href="https://www.youtube.com/watch?v=WZNG8UomjSI"><img width="140px" src="https://i.ytimg.com/vi/WZNG8UomjSI/mqdefault.jpg"></a></td>
