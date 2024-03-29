@@ -76,15 +76,65 @@ I-am-vishalmaurya@github
   </table>
 
 ### 📺 Latest YouTube Videos
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Win this RTX 4090 signed by Jensen Huang](https://ytcards.demolab.com/?id=VybxPh8Trls&title=Win+this+RTX+4090+signed+by+Jensen+Huang&lang=en&timestamp=1710538911&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=50 "Win this RTX 4090 signed by Jensen Huang")](https://www.youtube.com/watch?v=VybxPh8Trls)
-[![How Data Structures & Algorithms are Actually Used](https://ytcards.demolab.com/?id=ALPWOiUKIjY&title=How+Data+Structures+%26+Algorithms+are+Actually+Used&lang=en&timestamp=1710513900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=699 "How Data Structures & Algorithms are Actually Used")](https://www.youtube.com/watch?v=ALPWOiUKIjY)
-[![The Biggest Issues I've Faced Web Scraping (and how to fix them)](https://ytcards.demolab.com/?id=vxk6YPRVg_o&title=The+Biggest+Issues+I%27ve+Faced+Web+Scraping+%28and+how+to+fix+them%29&lang=en&timestamp=1709917248&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=903 "The Biggest Issues I've Faced Web Scraping (and how to fix them)")](https://www.youtube.com/watch?v=vxk6YPRVg_o)
-[![The Data Structure You Use Matters a Lot](https://ytcards.demolab.com/?id=VpnZnFUHhIU&title=The+Data+Structure+You+Use+Matters+a+Lot&lang=en&timestamp=1707836432&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=395 "The Data Structure You Use Matters a Lot")](https://www.youtube.com/watch?v=VpnZnFUHhIU)
-[![Top Paying Companies for Software Engineers](https://ytcards.demolab.com/?id=cIvduLKs5uY&title=Top+Paying+Companies+for+Software+Engineers&lang=en&timestamp=1707058821&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=32 "Top Paying Companies for Software Engineers")](https://www.youtube.com/watch?v=cIvduLKs5uY)
-[![Merge Sort Visualized](https://ytcards.demolab.com/?id=MlyIGMOkL5s&title=Merge+Sort+Visualized&lang=en&timestamp=1706360421&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=55 "Merge Sort Visualized")](https://www.youtube.com/watch?v=MlyIGMOkL5s)
-<!-- END YOUTUBE-CARDS -->
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://streak-stats.demolab.com?user=Kiran1689&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689/cryptos">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Kiran1689&repo=cryptos&theme=nightowl&show_owner=true" alt="Cryptos Project" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Kiran1689&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+</div>
+
+---
+
+<!--Dynamic Quote card updated everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Yanni&quote=Music%20is%20like%20creating%20an%20emotional%20painting.%20The%20sounds%20are%20the%20colors.&theme=dark&bg_color=011627&author_color=ffeb95">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
