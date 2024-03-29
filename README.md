@@ -3,9 +3,25 @@
 # 🏄‍♂️ Samuel S. Romo
 
 **`Digital Craftsman (Data Scientist/Web Developer/Computer Scientist)`**
----
+
 I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 400k subscribers.
----
+<hr>
+
+```
+I-am-vishalmaurya@github
+-------------------------
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 Learning about Computer Vision and Machine Learning stuff
+🌟 Main languages: Python, JavaScript
+🚩 Interested in Full Stack Machine Learning Application development
+💖 In a complicated relationship with Neural Networks
+🎵 Love metal, lofi, jazz and soft music
+```
+<hr>
+
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
