@@ -1,4 +1,4 @@
-<img src="sources/wallpaper.jpg" border-radius=50px>
+<img src="sources/wallpaper-modified.png">
 
 # 🏄‍♂️ Samuel S. Romo
 
