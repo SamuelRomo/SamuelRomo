@@ -21,6 +21,7 @@ I-am-vishalmaurya@github
 💖 In a complicated relationship with Neural Networks
 🎵 Love metal, lofi, jazz and soft music
 ```
+
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=GMAIL&logo=gmail&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -32,8 +33,7 @@ I-am-vishalmaurya@github
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 <hr>
-
----
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 <h2 align="">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="">
