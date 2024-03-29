@@ -1,4 +1,4 @@
-<img src="sources/pngtree-d-render-of-a-low-poly-forest-on-water-with-sun-picture-image_5580335.png">
+<img src="sources/wallpaper.jpg">
 
 # 🏄‍♂️ Samuel S. Romo
 
