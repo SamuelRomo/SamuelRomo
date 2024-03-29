@@ -21,7 +21,7 @@ I'm an indie full-stack developer and content creator building my version of the
 <h2 align="">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 ### 🧰 Languages and Tools
