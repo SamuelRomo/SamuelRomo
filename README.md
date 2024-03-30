@@ -41,10 +41,10 @@ I-am-vishalmaurya@github
    <table>
       <tr>
          <td>
-             <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git,r" />
+             <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git,r,bootstrap,mui,html,css,vscode,github,figma,git,r" />
          </td>
          <td>
-             <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+             <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask, bootstrap,mui,html,css,vscode,github,figma,git,r" /><br>
          </td>
       </tr>
    </table>
