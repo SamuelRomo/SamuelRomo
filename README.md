@@ -207,8 +207,8 @@ I-am-vishalmaurya@github
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Kiran1689">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=react" alt="GitHub Stats" />
+        <a href="https://github.com/SamuelRomo">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=SamuelRomo&count_private=true&show_icons=true&theme=react" alt="GitHub Stats" />
         </a>
       </p>
     </td>
